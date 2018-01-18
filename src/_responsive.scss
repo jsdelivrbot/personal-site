@@ -1,0 +1,139 @@
+@media only screen and (max-width: 770px) and (min-width: 650px) {
+  .nav li {
+    font-size: 0.75em;
+  }
+}
+
+@media only screen and (max-width: 649px) and (min-width: 615px) {
+  .nav li {
+    font-size: 0.70em;
+  }
+}
+
+@media only screen and (max-width: 614px) and (min-width: 575px) {
+  .nav li {
+    font-size: 0.65em;
+  }
+}
+
+@media only screen and (max-width: 574px) and (min-width: 540px) {
+  .nav li {
+    font-size: 0.60em;
+  }
+
+  .page-heading {
+    font-size: 2.5em
+  }
+}
+
+@media only screen and (max-width: 539px) and (min-width: 500px) {
+  .nav li {
+    font-size: 0.55em;
+  }
+
+  i {
+    font-size: 3.5em;
+  }
+
+  .page-heading {
+    font-size: 2.25em;
+  } 
+}
+
+@media only screen and (max-width: 499px) and (min-width: 440px) {
+  .nav li {
+    font-size: 0.50em;
+  }
+
+  .page-heading {
+    font-size: 2em;
+  }
+
+  i {
+    font-size: 3.25em;
+  }
+}
+
+@media only screen and (max-width: 439px) and (min-width: 400px) {
+  .nav li {
+    font-size: 0.45em;
+  }
+
+  .page-heading {
+    font-size: 2em;
+  }
+
+  i {
+    font-size: 2.75em;
+  }
+}
+
+@media only screen and (max-width: 399px) and (min-width: 390px) {
+  .nav li {
+    font-size: 0.40em;
+  }
+
+  .page-heading {
+    font-size: 1.75em;
+  }
+
+  i {
+    font-size: 2.60em;
+  }
+}
+
+@media only screen and (max-width: 389px) and (min-width: 375px) {
+  .nav li {
+    font-size: 0.40em;
+  }
+
+  .page-heading {
+    font-size: 1.65em;
+  }
+
+  i {
+    font-size: 2.45em;
+  }
+}
+
+@media only screen and (max-width: 374px) and (min-width: 360px) {
+  .nav li {
+    font-size: 0.35em;
+  }
+
+  .page-heading {
+    font-size: 1.65em;
+  }
+
+  i {
+    font-size: 2.25em;
+  }
+}
+
+@media only screen and (max-width: 359px) and (min-width: 335px) {
+  .nav li {
+    font-size: 0.35em;
+  }
+
+  .page-heading {
+    font-size: 1.65em;
+  }
+
+  i {
+    font-size: 2em;
+  }
+}
+
+@media only screen and (max-width: 334px) {
+  .nav li {
+    font-size: 0.35em;
+  }
+  
+  i {
+    font-size: 1.75em;
+  }
+
+  .page-heading {
+    font-size: 1.5em;
+  }
+}

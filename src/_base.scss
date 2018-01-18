@@ -1,0 +1,86 @@
+@import 'variables';
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background: $body-background-color;
+}
+
+.landing-main {
+  background: $landing-background-color;
+  padding: 1.5em;
+}
+
+.page-heading {
+  font-size: 3em;
+  margin: 0 auto;
+  font-family: 'Roboto Mono', monospace;
+  color: $page-heading-color;
+}
+
+.email-callout {
+  font-size: 1.5em;
+  margin: 0 auto;
+}
+
+.footer {
+  background: $footer-background-color;
+}
+
+#footer-heading {
+  padding: 0 1.5em;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1em;
+  color: $link;
+}
+
+a:visited {
+  color: $link;
+}
+
+.nav {
+  background: $nav-background-color;
+}
+
+.nav-items li {
+  text-align: left;
+  margin: 0 1em;
+}
+
+.skills-list li {
+  text-align: center;
+  margin: 0 1em;
+}
+
+i {
+  font-size: 4rem;
+}
+
+.nav-items {
+  font-size: 2rem;
+  text-align: left;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.about-section {
+  padding: 1em;
+  background: $about-section-background-color;
+}
+
+.topic-callout {
+  color: $topic-callout-color;
+}
+
+#my-name-heading {
+  color: $my-name-heading-color;
+}
+
+
+
